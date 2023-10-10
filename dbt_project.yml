@@ -1,0 +1,8 @@
+name: mesh_upstream
+profile: all
+config-version: 2
+version: "1.0.0"
+
+models:
+  mesh_upstream:
+    +materialized: table

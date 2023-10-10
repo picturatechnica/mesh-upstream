@@ -1,0 +1,7 @@
+dbt_packages/
+dbt_modules/
+logs/
+target/
+venv*
+.env
+.scratch
