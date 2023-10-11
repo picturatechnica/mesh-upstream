@@ -1,3 +1,5 @@
 models:
   - name: foo
     access: public
+  - name: baz
+    access: public
