@@ -1,5 +1,5 @@
 models:
-  - name: foo
+  - name: upstream_foo
     access: public
-  - name: baz
+  - name: upstream_bar
     access: public
