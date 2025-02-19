@@ -1,5 +1,0 @@
-models:
-  - name: upstream_foo
-    access: public
-  - name: upstream_bar
-    access: public
