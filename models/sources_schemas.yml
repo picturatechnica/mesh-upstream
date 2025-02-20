@@ -9,5 +9,6 @@ sources:
 
 models:
   - name: stg_customers
+    access: public
     columns:
       - name: id
