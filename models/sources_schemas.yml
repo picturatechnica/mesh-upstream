@@ -8,7 +8,11 @@ sources:
       - name: customers
 
 models:
-  - name: stg_customers
+  - name: up_a
+    access: public
+    columns:
+      - name: id
+  - name:
     access: public
     columns:
       - name: id
