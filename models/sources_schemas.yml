@@ -12,7 +12,7 @@ models:
     access: public
     columns:
       - name: id
-  - name:
+  - name: up_b
     access: public
     columns:
       - name: id
