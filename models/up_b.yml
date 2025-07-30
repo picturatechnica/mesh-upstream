@@ -1,0 +1,4 @@
+models:
+  - name: up_b
+    config:
+      access: public
