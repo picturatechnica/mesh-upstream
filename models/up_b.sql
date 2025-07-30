@@ -1,1 +1,1 @@
-select * from {{ ref('up_a') }}
+select 1 c
