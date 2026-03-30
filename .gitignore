@@ -5,3 +5,4 @@ target/
 venv*
 .env
 .scratch
+dbt_internal_packages/

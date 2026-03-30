@@ -1,4 +1,4 @@
 models:
-  - name: up_b
+  - name: up_a
     config:
       access: public
